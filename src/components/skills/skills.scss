@@ -7,19 +7,24 @@
   padding-top: 20px;
 
   h1 {
-    font-size: 50px;
+    font-size: 40px;
+    overflow-y: hidden;
   }
 
   .pic-group {
     width: 300px;
-    height: 150px;
+    height: 120px;
     margin: 20px 20px;
   }
-  .pic-single {
-    width: 90px;
-    height: 150px;
-    margin: 0 10px;
+  div {
+    overflow-y: hidden;
+    .pic-single {
+      width: 90px;
+      height: 120px;
+      margin: 0 10px;
+    }
   }
+
   .arrow {
     height: 50px;
     position: absolute;

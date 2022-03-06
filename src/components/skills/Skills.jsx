@@ -12,7 +12,6 @@ export default function Skills() {
       </div>
       <div>
         <img src="assets/redux.png" alt="" className="pic-single" />
-
         <img src="assets/mongodb.png" alt="" className="pic-single" />
       </div>
     </div>
