@@ -17,6 +17,12 @@ export const featuredPortfolio = [
     img: "assets/movieBooking.png",
     site: "https://vigorous-hoover-a36900.netlify.app",
   },
+  {
+    id: 4,
+    title: "Funiture shop",
+    img: "assets/project6.png",
+    site: "https://practical-tereshkova-853f57.netlify.app/",
+  },
 ];
 
 export const reactPortfolio = [
