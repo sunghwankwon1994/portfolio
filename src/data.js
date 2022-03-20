@@ -13,7 +13,7 @@ export const featuredPortfolio = [
   },
   {
     id: 3,
-    title: "Movie Booking App",
+    title: "Movie Book",
     img: "assets/movieBooking.png",
     site: "https://vigorous-hoover-a36900.netlify.app",
   },
@@ -22,6 +22,12 @@ export const featuredPortfolio = [
     title: "Funiture shop",
     img: "assets/project6.png",
     site: "https://practical-tereshkova-853f57.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "Weather App",
+    img: "assets/project7.png",
+    site: "https://youthful-jackson-6d4fbe.netlify.app/",
   },
 ];
 
