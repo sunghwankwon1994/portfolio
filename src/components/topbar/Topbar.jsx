@@ -24,7 +24,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <div className="itemContainer">
             <LinkedIn className="icon" />
             <a
-              href="www.linkedin.com/in/sunghwan-kwon-108715223"
+              href="https://www.linkedin.com/in/sunghwan-kwon-108715223"
               target="_blank"
               rel="noreferrer"
             >
